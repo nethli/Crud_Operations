@@ -27,9 +27,9 @@ Before, you work on this , you have to install the new version of the XAMPP serv
 2. [MySQL Server](https://dev.mysql.com/downloads/installer/)
 
 
-And I've used some bootsrap codes in my project. You can check the codes through the following link :
+And I've used some bootsrap codes in my project. You can get the bootsrap codes through the following link :
 
-[Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+[Bootstrap Code](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
 #### Thank You Guys & Good Luck!!
 
