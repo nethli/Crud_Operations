@@ -1,4 +1,4 @@
-# Basic PHP Crud Opeartions With PHP & MySQL
+# Basic PHP Crud Operations With PHP & MySQL
 
 ## Everyday is a learning day !
 
