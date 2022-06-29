@@ -2,7 +2,6 @@
 
 ## Everyday is a learning day !
 
-
 Normally, before we move directly to databases, you guys have to learn basic opeartions of PHP. These operations known to be "CRUD". **CRUD** stands for **_Create, Read, Update and Delete(CRUD)_**. This repository will help you to put your hands together in learning basic PHP CRUD opeartions.	
 
 
